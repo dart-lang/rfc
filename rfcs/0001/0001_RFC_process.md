@@ -498,19 +498,7 @@ Specifically this means the following changes:
 
 #### Flutter RFC Process
 
-Flutter used to use
-[design docs](https://github.com/flutter/flutter/blob/17429363d473a625605d109dcecc3aa27e43102b/docs/contributing/Design-Documents.md)
-as a tool for structuring discussions associated with complex changes. The
-actual decision making was relegated to the code review process:
-
-> The Flutter project uses design docs as a tool for guiding discussions.
->
-> Decisions are made in PRs, not in design docs.
->
-> Approvals are given in PRs, not in design docs.
-
-They have now moved to an RFC process very similar to the one proposed in this
-document. See [Flutter RFC 000.0002 - Flutter RFC Review & Decision Process](https://github.com/flutter/rfc/blob/main/rfc/000.0002-flutter-rfc-review-process.md)
+See [Flutter RFC 000.0002 - Flutter RFC Review & Decision Process](https://github.com/flutter/rfc/blob/main/rfc/000.0002-flutter-rfc-review-process.md)
 
 #### Breaking changes process
 
